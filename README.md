@@ -1,2 +1,12 @@
-# cancer_research
-CLASSIFICATION OF HEALTHY AND TUMOROUS TISSUE SAMPLES USING RAMAN SPECTROSCOPY.
+# CLASSIFICATION OF HEALTHY AND TUMOROUS TISSUE SAMPLES USING RAMAN SPECTROSCOPY.
+Использование методов спектроскопии комбинационного рассеяния для эффективной и точной классификации здоровых и опухолевых тканей
+
+На основе собранных данных спектроскопии комбинационного рассеяния разработать модели и осуществить классификациию здоровых и опухолевых тканей
+Собрать материал по задаче. Погрузиться в тему предметной области.  Провести  обработку  выборки данных. Подобрать алгоритм минимизации ошибки. Решить задачу бинарной классификации. Определить признаки машинного обучения для проекта. Произвести обучение сети.
+
+Для работе в https://colab.research.google.com/drive необходимо использовать данные из архива data_input41.zip
+
+Сам файл расчетов cancer_research_4.ipynb для среды Jupiter
+Файл cancer_research_4.py для среды pycharm
+
+Результат можно анализировать в файле cancer_research_4.ipynb - Colaboratory.pdf 
